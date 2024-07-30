@@ -1,0 +1,7 @@
+En la pregunta 2 de 120 bytes
+P3 tiene 90
+k=44
+P3 necesita 3 bloques
+Llenas 2
+Te queda 1 con dos bytes de P3
+44-2 =42
